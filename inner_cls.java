@@ -18,7 +18,8 @@ class Outer
          System.out.println("The value of outer class variable"+outer_x);
     }
 }
-public class inner_cls {
+public class inner_cls 
+{
     public static void main(String[] args) {
         Outer ob2=new Outer();
         ob2.display();

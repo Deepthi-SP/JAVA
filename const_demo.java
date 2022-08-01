@@ -26,7 +26,8 @@ void print(double v)
    System.out.println("VOLUME OF THE BOX="+v);
 }
 }
-   public class const_demo {
+   public class const_demo
+   {
    public static void main(String[] args) 
    {
         double a,b;

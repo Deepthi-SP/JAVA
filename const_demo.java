@@ -19,7 +19,7 @@ class box{
 
 void print()
 {
-System.out.println("METHOD OVERLOADING");
+ System.out.println("METHOD OVERLOADING");
 }
 void print(double v)
 {

@@ -33,7 +33,7 @@ public class prg10{
                 val=f1.read();
 
             }
-            f1.close();
+             f1.close();
         }
         catch(FileNotFoundException e){
             System.out.println("File is not available");
